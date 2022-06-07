@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 
 # Usage
 ```
-python3 run.py -d "inurl:simplenews/admin" 2
+python3 run.py -d "inurl:simplenews/admin" 10 -s site.txt
 
 ██████╗   ██████╗  ██████╗  ██╗  ██╗ ███████╗  █████╗  ███████╗ ████████╗
 ██╔══██╗ ██╔═══██╗ ██╔══██╗ ██║ ██╔╝ ██╔════╝ ██╔══██╗ ██╔════╝ ╚══██╔══╝
@@ -25,7 +25,6 @@ DorkFast | Cod3d By : CapitosKamal | Instagram: https://www.instagram.com/capito
 # About me
 
 [Instagram] : (https://www.instagram.com/capitoskamal/)
-
 
 # Donation For Support Me And Thnx *BTC*
 
